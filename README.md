@@ -1,4 +1,4 @@
-xamen Git i Makdown ##
+Examen Git i Makdown ##
 
 **Aquest es un examen de git i Markdown**
 
